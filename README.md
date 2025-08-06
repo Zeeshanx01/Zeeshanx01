@@ -62,7 +62,7 @@
 
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://novatorem-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://spotify-now-playing-three-red.vercel.app/api/spotify)](https://open.spotify.com/user/313d7xqxzwhuioyjxvd4ubmtypbu)
 
 ---
 
