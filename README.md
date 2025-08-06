@@ -58,6 +58,7 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshanx01&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true&no-frame=true)
+
 ---
 
 ## 🎧 Now Playing on Spotify
