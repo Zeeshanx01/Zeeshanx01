@@ -7,15 +7,17 @@
 ---
 
 ## 🚀 About Me
+
 - 💻 MERN Stack Developer  
 - 🤖 Currently learning AI and Firebase  
 - 🎯 Building modern and scalable web apps  
 - 🌍 Open Source Contributor and Tech Enthusiast  
-- ✉️ Reach me at: **zeeshanmunir13579@gmail.com**
+- ✉️ Reach me at: **<zeeshan.x01000@gmail.com>**
 
 ---
 
 ## 🌐 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshanx01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zeeshanx01.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanmunir13579@gmail.com)
@@ -25,6 +27,7 @@
 ---
 
 ## 🛠 Tech Stack
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,33 +42,38 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshanx01&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanx01&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Zeeshanx01&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshanx01&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true&no-frame=true)
+![GitHub Streak](https://streak-stats.vercel.app?user=Zeeshanx01&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeeshanx01&theme=react-dark&hide_border=true)
 
 ---
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Zeeshanx01&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true&no-frame=true)
+---
+
 ## 🎧 Now Playing on Spotify
+
 [![Spotify](https://novatorem-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 ---
 
 ## 💡 Random Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ## 🐍 Watch my contributions snake
+<!-- ![Snake animation](https://github.com/Zeeshanx01/Zeeshanx01/blob/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://github.com/Zeeshanx01/Zeeshanx01/blob/output/github-contribution-grid-snake.svg)
 
 ---
